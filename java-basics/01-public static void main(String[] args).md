@@ -1,6 +1,11 @@
-# public static void main(String[] args)
+---
+title: "public static void main(String[] args)"
+date: 2022-01-18
+tags: ["JAVA"]
+source: https://app.notion.com/p/9eb8fd27a6be4952aa90d09df0e3da4a
+---
 
-> 작성: 2022-01-18 · 태그: JAVA · [노션 원본](https://app.notion.com/p/9eb8fd27a6be4952aa90d09df0e3da4a)
+# public static void main(String[] args)
 
 ### 서문
 

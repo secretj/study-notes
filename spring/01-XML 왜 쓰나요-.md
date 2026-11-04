@@ -1,6 +1,11 @@
-# XML 왜 쓰나요?
+---
+title: "XML 왜 쓰나요?"
+date: 2022-01-14
+tags: ["Spring"]
+source: https://app.notion.com/p/787b86791a104b0185aa93d2a61ca43a
+---
 
-> 작성: 2022-01-14 · 태그: Spring · [노션 원본](https://app.notion.com/p/787b86791a104b0185aa93d2a61ca43a)
+# XML 왜 쓰나요?
 
 ### XML의 정의
 

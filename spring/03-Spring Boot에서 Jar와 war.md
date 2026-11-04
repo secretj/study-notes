@@ -1,6 +1,11 @@
-# Spring Boot에서 Jar와 war
+---
+title: "Spring Boot에서 Jar와 war"
+date: 2022-01-14
+tags: ["Spring"]
+source: https://app.notion.com/p/4a0194752ae740fd8b1ca37d643b47d7
+---
 
-> 작성: 2022-01-14 · 태그: Spring · [노션 원본](https://app.notion.com/p/4a0194752ae740fd8b1ca37d643b47d7)
+# Spring Boot에서 Jar와 war
 
 ### Spring Boot에서는 많은 설정을 자동으로 해주는데,
 

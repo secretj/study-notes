@@ -1,6 +1,11 @@
-# "#include <stdio.h>"
+---
+title: "#include <stdio.h>"
+date: 2022-01-26
+tags: ["C", "정보처리기사"]
+source: https://app.notion.com/p/8f04ad88394341f7810db0bbf0332ef8
+---
 
-> 작성: 2022-01-26 · 태그: C, 정보처리기사 · [노션 원본](https://app.notion.com/p/8f04ad88394341f7810db0bbf0332ef8)
+# #include <stdio.h>
 
 ## #include \<stdio.h>
 

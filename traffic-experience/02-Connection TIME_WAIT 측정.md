@@ -1,6 +1,11 @@
-# Connection TIME_WAIT 측정
+---
+title: "Connection TIME_WAIT 측정"
+date: 2025-12-04
+tags: ["Redis", "MariaDB", "네트워크"]
+source: https://app.notion.com/p/2bfb71c01257806997bfcda1a89aab89
+---
 
-> 작성: 2025-12-04 · 태그: Redis, MariaDB, Network · [노션 원본](https://app.notion.com/p/2bfb71c01257806997bfcda1a89aab89)
+# Connection TIME_WAIT 측정
 
 ## 개요
 

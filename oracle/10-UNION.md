@@ -1,6 +1,11 @@
-# UNION
+---
+title: "UNION"
+date: 2022-01-25
+tags: ["ORACLE"]
+source: https://app.notion.com/p/0fc0bc33ad604102ac68c40b98a17d8b
+---
 
-> 작성: 2022-01-25 · 태그: ORACLE · [노션 원본](https://app.notion.com/p/0fc0bc33ad604102ac68c40b98a17d8b)
+# UNION
 
 ### UNION (중복 제거)
 

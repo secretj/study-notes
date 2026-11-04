@@ -1,6 +1,11 @@
-# 스트림(Stream)
+---
+title: "스트림(Stream)"
+date: 2024-01-31
+tags: ["JAVA"]
+source: https://app.notion.com/p/c13df74232cf4cc49ac2af58d850ef64
+---
 
-> 작성: 2024-01-31 · 태그: JAVA · [노션 원본](https://app.notion.com/p/c13df74232cf4cc49ac2af58d850ef64)
+# 스트림(Stream)
 
 ## 스트림(Stream)
 

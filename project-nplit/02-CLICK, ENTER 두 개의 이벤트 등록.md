@@ -1,6 +1,11 @@
-# CLICK, ENTER 두 개의 이벤트 등록
+---
+title: "CLICK, ENTER 두 개의 이벤트 등록"
+date: 2021-12-28
+tags: []
+source: https://app.notion.com/p/2ff5118c8a8c4778a084e4090377131d
+---
 
-> 작성: 2021-12-28 · [노션 원본](https://app.notion.com/p/2ff5118c8a8c4778a084e4090377131d)
+# CLICK, ENTER 두 개의 이벤트 등록
 
 ### 채팅을 보낼 때 전송 버튼을 클릭해야만 메세지 전송이 되는데, ENTER를 눌러도 전송이 되게 수정하려고 했다.
 

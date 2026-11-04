@@ -1,6 +1,11 @@
-# OWASP란?
+---
+title: "OWASP란?"
+date: 2022-02-21
+tags: ["네트워크"]
+source: https://app.notion.com/p/dec0860da9b247da8000c999c861cf60
+---
 
-> 작성: 2022-02-21 · 태그: 네트워크 · [노션 원본](https://app.notion.com/p/dec0860da9b247da8000c999c861cf60)
+# OWASP란?
 
 **OWASP**(Open Web Application Security Project)는 **오픈소스 웹 어플리케이션 보안 프로젝트**
 

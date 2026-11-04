@@ -1,6 +1,11 @@
-# INTELLIJ 단축키 정리
+---
+title: "INTELLIJ 단축키 정리"
+date: 2023-06-28
+tags: ["Spring"]
+source: https://app.notion.com/p/2bf0ca7a7b4943d29f0e045a02f632dd
+---
 
-> 작성: 2023-06-28 · 태그: Spring · [노션 원본](https://app.notion.com/p/2bf0ca7a7b4943d29f0e045a02f632dd)
+# INTELLIJ 단축키 정리
 
 - Extract Method 기능(메소드를 따로 빼주는 기능) - CTRL+ALT+H
 - Import - ALT+ENTER

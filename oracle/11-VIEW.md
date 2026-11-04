@@ -1,6 +1,11 @@
-# VIEW
+---
+title: "VIEW"
+date: 2022-01-25
+tags: ["ORACLE"]
+source: https://app.notion.com/p/729ac1a6b6f443308c3f57dea3942187
+---
 
-> 작성: 2022-01-25 · 태그: ORACLE · [노션 원본](https://app.notion.com/p/729ac1a6b6f443308c3f57dea3942187)
+# VIEW
 
 ### VIEW가 생기게 된 이유?
 

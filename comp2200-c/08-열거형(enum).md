@@ -1,6 +1,11 @@
-# 열거형(enum)
+---
+title: "열거형(enum)"
+date: 2024-01-13
+tags: []
+source: https://app.notion.com/p/167b1f76f07e4c2a9e6177ba5c93c7a6
+---
 
-> 작성: 2024-01-13 · [노션 원본](https://app.notion.com/p/167b1f76f07e4c2a9e6177ba5c93c7a6)
+# 열거형(enum)
 
 ![](images/ec970f1b-401d-4346-a193-c8e3a940e3db.png)
 

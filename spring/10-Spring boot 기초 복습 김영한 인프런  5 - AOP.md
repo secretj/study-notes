@@ -1,6 +1,11 @@
-# Spring boot 기초 복습 김영한 인프런  5 - AOP
+---
+title: "Spring boot 기초 복습 김영한 인프런  5 - AOP"
+date: 2023-07-05
+tags: ["Spring"]
+source: https://app.notion.com/p/400c01cd1cf442cc87dd2364c4398d74
+---
 
-> 작성: 2023-07-05 · 태그: Spring · [노션 원본](https://app.notion.com/p/400c01cd1cf442cc87dd2364c4398d74)
+# Spring boot 기초 복습 김영한 인프런  5 - AOP
 
 ## AOP(Aspect Oriented Programming - 관점지향프로그래밍)
 

@@ -1,6 +1,11 @@
-# Spring의 특징(DI, AOP, PSA)
+---
+title: "Spring의 특징(DI, AOP, PSA)"
+date: 2023-07-03
+tags: ["Spring"]
+source: https://app.notion.com/p/0673c2c580484c1d8ed43e5a5eb20b74
+---
 
-> 작성: 2023-07-03 · 태그: Spring · [노션 원본](https://app.notion.com/p/0673c2c580484c1d8ed43e5a5eb20b74)
+# Spring의 특징(DI, AOP, PSA)
 
 ### Spring의 특징을 따지면 크게 세가지로 분류할 수 있다.
 

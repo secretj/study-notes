@@ -1,6 +1,11 @@
-# 간단한 html파일 AWS 배포
+---
+title: "간단한 html파일 AWS 배포"
+date: 2022-01-05
+tags: ["네트워크"]
+source: https://app.notion.com/p/dde1a2cc2b1141a9b16bc2079b4194ca
+---
 
-> 작성: 2022-01-05 · 태그: 네트워크 · [노션 원본](https://app.notion.com/p/dde1a2cc2b1141a9b16bc2079b4194ca)
+# 간단한 html파일 AWS 배포
 
 ![](images/183e065a-6fcd-46c5-b6ae-61bcc26b282b.png)
 

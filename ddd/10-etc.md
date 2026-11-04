@@ -1,6 +1,11 @@
-# etc
+---
+title: "etc"
+date: 2024-03-05
+tags: []
+source: https://app.notion.com/p/e392d1d0f4c641deb321f3f29886f823
+---
 
-> 작성: 2024-03-05 · [노션 원본](https://app.notion.com/p/e392d1d0f4c641deb321f3f29886f823)
+# etc
 
 ## 애그리거트
 

@@ -1,6 +1,11 @@
-# JPA 핵심개념이해 - 맵핑과 상태
+---
+title: "JPA 핵심개념이해 - 맵핑과 상태"
+date: 2024-02-13
+tags: ["Spring", "JPA"]
+source: https://app.notion.com/p/ba3605a7b4f645ccae8c141c6242366a
+---
 
-> 작성: 2024-02-13 · 태그: Spring, JPA · [노션 원본](https://app.notion.com/p/ba3605a7b4f645ccae8c141c6242366a)
+# JPA 핵심개념이해 - 맵핑과 상태
 
 ## ✨엔티티 맵핑
 

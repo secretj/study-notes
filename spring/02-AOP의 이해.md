@@ -1,6 +1,11 @@
-# AOP의 이해
+---
+title: "AOP의 이해"
+date: 2022-01-14
+tags: ["Spring"]
+source: https://app.notion.com/p/ea856c2e16b44755b6b237b543ba73cb
+---
 
-> 작성: 2022-01-14 · 태그: Spring · [노션 원본](https://app.notion.com/p/ea856c2e16b44755b6b237b543ba73cb)
+# AOP의 이해
 
 ### AOP란?
 

@@ -1,6 +1,11 @@
-# NULL 관련 함수
+---
+title: "NULL 관련 함수"
+date: 2022-01-23
+tags: ["ORACLE"]
+source: https://app.notion.com/p/6bd1eb006b0443edb1cc29ca36951149
+---
 
-> 작성: 2022-01-23 · 태그: ORACLE · [노션 원본](https://app.notion.com/p/6bd1eb006b0443edb1cc29ca36951149)
+# NULL 관련 함수
 
 ### 기본적으로 NULL에 무슨 값을 더해도 NULL이 나오게 되어있다.
 

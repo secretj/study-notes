@@ -1,6 +1,11 @@
-# "#include <stdio.h>"
+---
+title: "#include <stdio.h>"
+date: 2024-01-31
+tags: []
+source: https://app.notion.com/p/b500b485cd2b4b62a38c50c776faa03e
+---
 
-> 작성: 2024-01-31 · [노션 원본](https://app.notion.com/p/b500b485cd2b4b62a38c50c776faa03e)
+# #include <stdio.h>
 
 # #include \<stdio.h>
 

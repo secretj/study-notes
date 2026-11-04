@@ -1,6 +1,11 @@
-# 젠킨스 EMAIL 설정
+---
+title: "젠킨스 EMAIL 설정"
+date: 2022-02-15
+tags: ["젠킨스"]
+source: https://app.notion.com/p/6e51d7917aa540369011e6bbf3e03711
+---
 
-> 작성: 2022-02-15 · 태그: 젠킨스 · [노션 원본](https://app.notion.com/p/6e51d7917aa540369011e6bbf3e03711)
+# 젠킨스 EMAIL 설정
 
 ### 젠킨스로 배포가 성공했을 때 이메일을 자동으로 발송해주는 기능이 있다.
 

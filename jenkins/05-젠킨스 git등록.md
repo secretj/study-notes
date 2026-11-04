@@ -1,6 +1,11 @@
-# 젠킨스 git등록
+---
+title: "젠킨스 git등록"
+date: 2022-02-15
+tags: ["젠킨스"]
+source: https://app.notion.com/p/32c528d885854467b85d8eacf71382bc
+---
 
-> 작성: 2022-02-15 · 태그: 젠킨스 · [노션 원본](https://app.notion.com/p/32c528d885854467b85d8eacf71382bc)
+# 젠킨스 git등록
 
 ### 젠킨스에서는 git을 등록해서 사용할 수 있다.
 

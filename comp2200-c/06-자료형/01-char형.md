@@ -1,6 +1,11 @@
-# char형
+---
+title: "char형"
+date: 2024-01-13
+tags: []
+source: https://app.notion.com/p/5a297b0381c1416a8ee9b9e2e9f82f7c
+---
 
-> [노션 원본](https://app.notion.com/p/5a297b0381c1416a8ee9b9e2e9f82f7c)
+# char형
 
 ![](../images/460d4428-d44c-440b-9231-52124c49acb5.png)
 

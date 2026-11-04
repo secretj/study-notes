@@ -1,6 +1,11 @@
-# 개발 환경 및 CI/CD의 기본 동작 이해
+---
+title: "개발 환경 및 CI/CD의 기본 동작 이해"
+date: 2022-02-14
+tags: ["젠킨스"]
+source: https://app.notion.com/p/ab17d198ef3c48ba8fb38e4732c0de26
+---
 
-> 작성: 2022-02-14 · 태그: 젠킨스 · [노션 원본](https://app.notion.com/p/ab17d198ef3c48ba8fb38e4732c0de26)
+# 개발 환경 및 CI/CD의 기본 동작 이해
 
 ## ❔ 개발 환경의 종류에는 무엇이 있을까?
 

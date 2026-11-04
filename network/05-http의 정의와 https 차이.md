@@ -1,6 +1,11 @@
-# http의 정의와 https 차이
+---
+title: "http의 정의와 https 차이"
+date: 2022-01-14
+tags: ["네트워크"]
+source: https://app.notion.com/p/99a59a6227ff4dd8bd8ec09d0b3a3ea6
+---
 
-> 작성: 2022-01-14 · 태그: 네트워크 · [노션 원본](https://app.notion.com/p/99a59a6227ff4dd8bd8ec09d0b3a3ea6)
+# http의 정의와 https 차이
 
 ## http란?
 

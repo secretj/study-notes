@@ -1,6 +1,11 @@
-# main(void) 함수
+---
+title: "main(void) 함수"
+date: 2024-01-13
+tags: []
+source: https://app.notion.com/p/7e5c2fcf4ef2437592ce5bcebe28154a
+---
 
-> 작성: 2024-01-13 · [노션 원본](https://app.notion.com/p/7e5c2fcf4ef2437592ce5bcebe28154a)
+# main(void) 함수
 
 - **프로그램의 진입점**
 - 반드시  int를 반환해야함 =⇒ **return 0;은 프로그램에 문제가 없다**는 뜻

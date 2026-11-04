@@ -1,6 +1,11 @@
-# Factory와 Mapper
+---
+title: "Factory와 Mapper"
+date: 2024-01-31
+tags: ["JAVA", "Pattern"]
+source: https://app.notion.com/p/03fc9d1d4fab4ff097e4300a496e4dd2
+---
 
-> 작성: 2024-01-31 · 태그: JAVA, Pattern · [노션 원본](https://app.notion.com/p/03fc9d1d4fab4ff097e4300a496e4dd2)
+# Factory와 Mapper
 
 목차
 

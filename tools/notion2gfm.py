@@ -10,6 +10,7 @@
 - 옮길 수 없는 블록(<unknown>)은 경고 인용문으로 남긴다.
 """
 import hashlib
+import json
 import os
 import re
 import shutil
@@ -318,6 +319,22 @@ def convert_text(text, ctx):
     return text.strip() + "\n"
 
 
+# 노션에서 대소문자만 다르게 쓴 태그를 하나로 모은다
+TAG_ALIASES = {"spring": "Spring", "java": "JAVA", "cs": "CS", "network": "네트워크", "c#": "C#",
+               "github": "GitHub", "mysql": "MySQL", "oracle": "ORACLE", "pocu": "POCU"}
+
+
+def parse_tags(v):
+    v = v.strip().strip("[]")
+    out = []
+    for t in v.split(","):
+        t = t.strip().strip('"').strip("'").strip()
+        t = TAG_ALIASES.get(t.lower(), t)
+        if t and t not in out:
+            out.append(t)
+    return out
+
+
 def front_matter(text):
     m = re.match(r"^---\n(.*?)\n---\n", text, re.S)
     if not m:
@@ -344,23 +361,27 @@ def main():
     if (raw / "images").exists():
         shutil.copytree(raw / "images", out / "images", dirs_exist_ok=True)
     img_dirs = [out / "images"]
+    metas_by_url = {norm_id(m.get("notion_url", "")): m for m, _ in metas.values() if m.get("notion_url")}
     warns = 0
     for f in files:
         meta, target = metas[f]
         _, body = front_matter(f.read_text(encoding="utf-8"))
         ctx = Ctx(f, target, out, page_map, img_dirs)
         md = convert_text(body, ctx)
-        head = [f"# {meta.get('title', f.stem)}", ""]
-        info = []
-        if meta.get("created"):
-            info.append(f"작성: {meta['created'][:10]}")
-        tags = meta.get("tags", "").strip("[]").replace('"', "").strip()
-        if tags:
-            info.append(f"태그: {tags}")
+        title = meta.get("title", f.stem).strip().strip('"')
+        created, tags = meta.get("created", ""), parse_tags(meta.get("tags", ""))
+        parent = metas_by_url.get(norm_id(meta.get("parent", "")) or "")
+        if parent:  # 하위 페이지는 날짜·태그가 없으면 부모 것을 쓴다
+            created = created or parent.get("created", "")
+            tags = tags or parse_tags(parent.get("tags", ""))
+        fm = ["---", f"title: {json.dumps(title, ensure_ascii=False)}"]
+        if created:
+            fm.append(f"date: {created[:10]}")
+        fm.append(f"tags: {json.dumps(tags, ensure_ascii=False)}")
         if meta.get("notion_url"):
-            info.append(f"[노션 원본]({meta['notion_url']})")
-        if info:
-            head += ["> " + " · ".join(info), ""]
+            fm.append(f"source: {meta['notion_url']}")
+        fm += ["---", "", f"# {title}", ""]
+        head = fm
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text("\n".join(head) + "\n" + md, encoding="utf-8")
         for w in sorted(set(ctx.warn)):

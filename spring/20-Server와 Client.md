@@ -1,6 +1,11 @@
-# Server와 Client
+---
+title: "Server와 Client"
+date: 2024-01-13
+tags: ["Spring"]
+source: https://app.notion.com/p/a4c8f7d94eeb4aefb570bc91cd88f477
+---
 
-> 작성: 2024-01-13 · 태그: Spring · [노션 원본](https://app.notion.com/p/a4c8f7d94eeb4aefb570bc91cd88f477)
+# Server와 Client
 
 <br>
 

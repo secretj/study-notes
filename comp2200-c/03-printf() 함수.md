@@ -1,6 +1,11 @@
-# printf() 함수
+---
+title: "printf() 함수"
+date: 2024-01-13
+tags: []
+source: https://app.notion.com/p/ccabff4f9164415b966374dac678d697
+---
 
-> 작성: 2024-01-13 · [노션 원본](https://app.notion.com/p/ccabff4f9164415b966374dac678d697)
+# printf() 함수
 
 ![](images/09fb18d3-3ed4-45f4-9f00-0e2c2daf896e.png)
 

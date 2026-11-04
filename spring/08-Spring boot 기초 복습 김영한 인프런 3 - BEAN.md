@@ -1,6 +1,11 @@
-# Spring boot 기초 복습 김영한 인프런 3 - BEAN
+---
+title: "Spring boot 기초 복습 김영한 인프런 3 - BEAN"
+date: 2023-07-03
+tags: ["Spring"]
+source: https://app.notion.com/p/90224cab503247f89546c3895f21c2d5
+---
 
-> 작성: 2023-07-03 · 태그: Spring · [노션 원본](https://app.notion.com/p/90224cab503247f89546c3895f21c2d5)
+# Spring boot 기초 복습 김영한 인프런 3 - BEAN
 
 ## Spring Bean과 의존성 주입
 

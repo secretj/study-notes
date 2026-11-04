@@ -1,6 +1,11 @@
-# 객체지향프로그래밍(OOP)
+---
+title: "객체지향프로그래밍(OOP)"
+date: 2022-01-18
+tags: ["JAVA"]
+source: https://app.notion.com/p/cc32ce8b2a814c1aa3425123bb66f925
+---
 
-> 작성: 2022-01-18 · 태그: JAVA · [노션 원본](https://app.notion.com/p/cc32ce8b2a814c1aa3425123bb66f925)
+# 객체지향프로그래밍(OOP)
 
 ### 객체란?
 

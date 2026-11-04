@@ -1,6 +1,11 @@
-# JPA 핵심개념이해 - JPA 사용 이유
+---
+title: "JPA 핵심개념이해 - JPA 사용 이유"
+date: 2023-07-16
+tags: ["Spring", "JPA"]
+source: https://app.notion.com/p/d9a659c1f5a0432cae28319e9bc5d7e1
+---
 
-> 작성: 2023-07-16 · 태그: Spring, JPA · [노션 원본](https://app.notion.com/p/d9a659c1f5a0432cae28319e9bc5d7e1)
+# JPA 핵심개념이해 - JPA 사용 이유
 
 ## docker 설정
 

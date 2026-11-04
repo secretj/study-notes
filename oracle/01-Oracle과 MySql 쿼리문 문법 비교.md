@@ -1,6 +1,11 @@
-# Oracle과 MySql 쿼리문 문법 비교
+---
+title: "Oracle과 MySql 쿼리문 문법 비교"
+date: 2022-01-19
+tags: ["ORACLE"]
+source: https://app.notion.com/p/00606280ffeb4ef8a26428784877af54
+---
 
-> 작성: 2022-01-19 · 태그: ORACLE · [노션 원본](https://app.notion.com/p/00606280ffeb4ef8a26428784877af54)
+# Oracle과 MySql 쿼리문 문법 비교
 
 **1. 공백치환 함수 ( NVL -> IFNULL )**
 

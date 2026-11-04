@@ -1,6 +1,11 @@
-# 재귀(recursive)함수
+---
+title: "재귀(recursive)함수"
+date: 2022-01-08
+tags: ["POCU"]
+source: https://app.notion.com/p/55fa956b0be649869c5eb3a3fc49ff72
+---
 
-> 작성: 2022-01-08 · 태그: pocu · [노션 원본](https://app.notion.com/p/55fa956b0be649869c5eb3a3fc49ff72)
+# 재귀(recursive)함수
 
 ## 재귀 함수 정의
 

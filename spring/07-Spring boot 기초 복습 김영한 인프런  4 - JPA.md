@@ -1,6 +1,11 @@
-# Spring boot 기초 복습 김영한 인프런  4 - JPA
+---
+title: "Spring boot 기초 복습 김영한 인프런  4 - JPA"
+date: 2023-07-03
+tags: ["Spring"]
+source: https://app.notion.com/p/0ad96f7fecc14d928790ce952881921e
+---
 
-> 작성: 2023-07-03 · 태그: Spring · [노션 원본](https://app.notion.com/p/0ad96f7fecc14d928790ce952881921e)
+# Spring boot 기초 복습 김영한 인프런  4 - JPA
 
 ## JPA
 

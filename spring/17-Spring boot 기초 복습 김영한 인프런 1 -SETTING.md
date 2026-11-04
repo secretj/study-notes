@@ -1,6 +1,11 @@
-# Spring boot 기초 복습 김영한 인프런 1 -SETTING
+---
+title: "Spring boot 기초 복습 김영한 인프런 1 -SETTING"
+date: 2024-01-13
+tags: ["Spring"]
+source: https://app.notion.com/p/0a79b78f4f4c4d38964ec136f180e5f4
+---
 
-> 작성: 2024-01-13 · 태그: Spring · [노션 원본](https://app.notion.com/p/0a79b78f4f4c4d38964ec136f180e5f4)
+# Spring boot 기초 복습 김영한 인프런 1 -SETTING
 
 ## 스프링 부트 라이브러리
 

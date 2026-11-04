@@ -1,6 +1,11 @@
-# JOIN(조인)
+---
+title: "JOIN(조인)"
+date: 2022-01-23
+tags: ["ORACLE"]
+source: https://app.notion.com/p/e5fc666736814c3bae14f0dcfc38d342
+---
 
-> 작성: 2022-01-23 · 태그: ORACLE · [노션 원본](https://app.notion.com/p/e5fc666736814c3bae14f0dcfc38d342)
+# JOIN(조인)
 
 ### 테이블을 합치는 기법
 

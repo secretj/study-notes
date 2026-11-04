@@ -1,6 +1,11 @@
-# Spring boot 기초 복습 김영한 인프런 2 - TDD
+---
+title: "Spring boot 기초 복습 김영한 인프런 2 - TDD"
+date: 2024-01-13
+tags: ["Spring"]
+source: https://app.notion.com/p/13681bc114cc4a229c9ac145d11efafb
+---
 
-> 작성: 2024-01-13 · 태그: Spring · [노션 원본](https://app.notion.com/p/13681bc114cc4a229c9ac145d11efafb)
+# Spring boot 기초 복습 김영한 인프런 2 - TDD
 
 ### DB 대용으로 MEMORY 코드 짜기
 

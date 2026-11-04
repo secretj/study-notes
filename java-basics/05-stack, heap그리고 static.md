@@ -1,6 +1,11 @@
-# stack, heap그리고 static
+---
+title: "stack, heap그리고 static"
+date: 2022-02-24
+tags: ["JAVA"]
+source: https://app.notion.com/p/2a018103e564465ca62b3acdabb22957
+---
 
-> 작성: 2022-02-24 · 태그: JAVA · [노션 원본](https://app.notion.com/p/2a018103e564465ca62b3acdabb22957)
+# stack, heap그리고 static
 
 ### 데이터 영역
 

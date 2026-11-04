@@ -1,6 +1,11 @@
-# SpringBootApplication
+---
+title: "SpringBootApplication"
+date: 2024-01-13
+tags: ["Spring"]
+source: https://app.notion.com/p/81a36943fbf84b52aa097f1ca4e9b508
+---
 
-> 작성: 2024-01-13 · 태그: Spring · [노션 원본](https://app.notion.com/p/81a36943fbf84b52aa097f1ca4e9b508)
+# SpringBootApplication
 
 ![](images/d5587d22-8ff8-49c0-82db-bbe8de6f66e7.png)
 

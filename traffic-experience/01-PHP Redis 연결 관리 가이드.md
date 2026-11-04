@@ -1,6 +1,11 @@
-# PHP Redis 연결 관리 가이드
+---
+title: "PHP Redis 연결 관리 가이드"
+date: 2025-11-27
+tags: ["Redis", "PHP"]
+source: https://app.notion.com/p/2b8b71c012578077aee8e5c162c49160
+---
 
-> 작성: 2025-11-27 · 태그: Redis, PHP · [노션 원본](https://app.notion.com/p/2b8b71c012578077aee8e5c162c49160)
+# PHP Redis 연결 관리 가이드
 
 ## 💡 PHP Redis 연결 관리 가이드
 

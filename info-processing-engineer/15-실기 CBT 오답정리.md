@@ -1,6 +1,11 @@
-# 실기 CBT 오답정리
+---
+title: "실기 CBT 오답정리"
+date: 2022-03-11
+tags: []
+source: https://app.notion.com/p/649654269d414f0b9e271da91770be3f
+---
 
-> 작성: 2022-03-11 · [노션 원본](https://app.notion.com/p/649654269d414f0b9e271da91770be3f)
+# 실기 CBT 오답정리
 
 ![](images/71a13adb-9f87-40c0-a818-f7710eb50bb7.png)
 

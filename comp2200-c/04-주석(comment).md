@@ -1,6 +1,11 @@
-# 주석(comment)
+---
+title: "주석(comment)"
+date: 2024-01-13
+tags: []
+source: https://app.notion.com/p/f8a1dd402d7647acadfbf707d664aa83
+---
 
-> 작성: 2024-01-13 · [노션 원본](https://app.notion.com/p/f8a1dd402d7647acadfbf707d664aa83)
+# 주석(comment)
 
 - C89에서 주석은 /\* \*/ 만 지원한다.
 

@@ -1,6 +1,11 @@
-# JPA 핵심개념이해 - Fetch & Query
+---
+title: "JPA 핵심개념이해 - Fetch & Query"
+date: 2023-07-16
+tags: ["Spring", "JPA"]
+source: https://app.notion.com/p/86c98d1909b14186893e9b059f4fb226
+---
 
-> 작성: 2023-07-16 · 태그: Spring, JPA · [노션 원본](https://app.notion.com/p/86c98d1909b14186893e9b059f4fb226)
+# JPA 핵심개념이해 - Fetch & Query
 
 ## ✨ Fetch
 

@@ -1,6 +1,11 @@
-# Spring MVC구조의 처리과정
+---
+title: "Spring MVC구조의 처리과정"
+date: 2024-01-13
+tags: ["Spring"]
+source: https://app.notion.com/p/d0e67e7e75be437f98bfdf3f42e7305d
+---
 
-> 작성: 2024-01-13 · 태그: Spring · [노션 원본](https://app.notion.com/p/d0e67e7e75be437f98bfdf3f42e7305d)
+# Spring MVC구조의 처리과정
 
 ![](images/78687808-d2b7-464f-a009-8a0a4df2aed4.png)
 

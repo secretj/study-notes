@@ -1,6 +1,11 @@
-# P vs NP 문제
+---
+title: "P vs NP 문제"
+date: 2022-01-08
+tags: ["POCU"]
+source: https://app.notion.com/p/c55217b6dee848d782db98e65a8c42f1
+---
 
-> 작성: 2022-01-08 · 태그: pocu · [노션 원본](https://app.notion.com/p/c55217b6dee848d782db98e65a8c42f1)
+# P vs NP 문제
 
 ## P 분류 (P class)
 

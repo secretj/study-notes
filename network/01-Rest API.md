@@ -1,6 +1,11 @@
-# Rest API
+---
+title: "Rest API"
+date: 2022-01-04
+tags: ["네트워크"]
+source: https://app.notion.com/p/72c504468353414bbbe7224ef11d0f24
+---
 
-> 작성: 2022-01-04 · 태그: 네트워크 · [노션 원본](https://app.notion.com/p/72c504468353414bbbe7224ef11d0f24)
+# Rest API
 
 ## REST 란?
 

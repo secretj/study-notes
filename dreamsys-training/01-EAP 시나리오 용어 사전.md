@@ -1,6 +1,11 @@
-# EAP 시나리오 용어 사전
+---
+title: "EAP 시나리오 용어 사전"
+date: 2022-03-03
+tags: ["드림시스", "EAP", "시나리오"]
+source: https://app.notion.com/p/38d26536726b4c0c975278c66aa74c6c
+---
 
-> 작성: 2022-03-03 · 태그: 드림시스, EAP, 시나리오 · [노션 원본](https://app.notion.com/p/38d26536726b4c0c975278c66aa74c6c)
+# EAP 시나리오 용어 사전
 
 - **EAP**
 

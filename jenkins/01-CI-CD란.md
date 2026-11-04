@@ -1,6 +1,11 @@
-# CI/CD란 ?
+---
+title: "CI/CD란 ?"
+date: 2022-02-14
+tags: ["젠킨스"]
+source: https://app.notion.com/p/0f8ad38a0b6840f2915b6e8f0a189517
+---
 
-> 작성: 2022-02-14 · 태그: 젠킨스 · [노션 원본](https://app.notion.com/p/0f8ad38a0b6840f2915b6e8f0a189517)
+# CI/CD란 ?
 
 ## CI/CD 란?
 

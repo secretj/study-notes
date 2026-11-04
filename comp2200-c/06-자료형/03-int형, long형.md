@@ -1,6 +1,11 @@
-# int형, long형
+---
+title: "int형, long형"
+date: 2024-01-13
+tags: []
+source: https://app.notion.com/p/5384a9a8c2ff41a7abfa3e19ac8fc7a8
+---
 
-> [노션 원본](https://app.notion.com/p/5384a9a8c2ff41a7abfa3e19ac8fc7a8)
+# int형, long형
 
 # int형
 

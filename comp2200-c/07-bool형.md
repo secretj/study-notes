@@ -1,6 +1,11 @@
-# bool형
+---
+title: "bool형"
+date: 2024-01-13
+tags: []
+source: https://app.notion.com/p/2e6fe12018be43ffbe4a66ddbd0a63b3
+---
 
-> 작성: 2024-01-13 · [노션 원본](https://app.notion.com/p/2e6fe12018be43ffbe4a66ddbd0a63b3)
+# bool형
 
 ## bool형을 잘 안 쓰는 이유
 

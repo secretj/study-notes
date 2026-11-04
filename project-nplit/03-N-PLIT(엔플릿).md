@@ -1,6 +1,11 @@
-# N-PLIT(엔플릿)
+---
+title: "N-PLIT(엔플릿)"
+date: 2022-01-01
+tags: []
+source: https://app.notion.com/p/39186b6c4d714dadad25851251ed3563
+---
 
-> 작성: 2022-01-01 · [노션 원본](https://app.notion.com/p/39186b6c4d714dadad25851251ed3563)
+# N-PLIT(엔플릿)
 
 ### 🔗Link
 

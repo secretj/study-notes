@@ -1,6 +1,11 @@
-# getter/setter
+---
+title: "getter/setter"
+date: 2022-01-18
+tags: ["JAVA"]
+source: https://app.notion.com/p/d6f112e206c1463aa38fd5af66551ce8
+---
 
-> 작성: 2022-01-18 · 태그: JAVA · [노션 원본](https://app.notion.com/p/d6f112e206c1463aa38fd5af66551ce8)
+# getter/setter
 
 ### 남이 읽을 수 있게 해주려면 getter를
 

@@ -1,6 +1,11 @@
-# float형, double형, long double형
+---
+title: "float형, double형, long double형"
+date: 2024-01-13
+tags: []
+source: https://app.notion.com/p/d43399fa17bb43aebe18e9774c3d65f1
+---
 
-> [노션 원본](https://app.notion.com/p/d43399fa17bb43aebe18e9774c3d65f1)
+# float형, double형, long double형
 
 # float형
 

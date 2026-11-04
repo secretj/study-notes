@@ -1,6 +1,11 @@
-# Bean과 Component의 차이
+---
+title: "Bean과 Component의 차이"
+date: 2022-01-14
+tags: ["Spring"]
+source: https://app.notion.com/p/882c71ebd08646e1b3b98ee4fc414483
+---
 
-> 작성: 2022-01-14 · 태그: Spring · [노션 원본](https://app.notion.com/p/882c71ebd08646e1b3b98ee4fc414483)
+# Bean과 Component의 차이
 
 스프링이 개발자 대신 객체를 제어하기 위해서는 객체들이 빈(Bean)으로 등록되어 있어야 한다.
 

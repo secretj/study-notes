@@ -1,6 +1,11 @@
-# SELECT 구절과 정렬, 집계 함수
+---
+title: "SELECT 구절과 정렬, 집계 함수"
+date: 2022-01-23
+tags: ["ORACLE"]
+source: https://app.notion.com/p/084817bec7af41c0b18e257bfddc10d4
+---
 
-> 작성: 2022-01-23 · 태그: ORACLE · [노션 원본](https://app.notion.com/p/084817bec7af41c0b18e257bfddc10d4)
+# SELECT 구절과 정렬, 집계 함수
 
 ### SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY 의 순으로 작성
 
