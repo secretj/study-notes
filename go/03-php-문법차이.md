@@ -15,7 +15,7 @@ PHP로 짜던 습관 그대로 Go를 짜면 컴파일이 안 되거나, 컴파�
 | 궁금했던 것 | 문법이 PHP 7.4랑 뭐가 달라? |
 | 한 줄 답 | PHP는 "일단 돌려 보고 알아서 맞춰 주는" 언어고, Go는 "컴파일할 때 다 정해 두는" 언어예요. 타입, 배열, 에러, 클래스 네 군데가 제일 많이 달라요. |
 | 정리한 날 | 2026-11-04 |
-| 같이 볼 글 | [Go 학습 내용](https://wiki.mailplug.co.kr/confluence/pages/viewpage.action?pageId=224339879) · [04. 자주 쓰는 함수 대응표](https://wiki.mailplug.co.kr/confluence/pages/viewpage.action?pageId=224340555) |
+| 같이 볼 글 | Go 학습 내용 · [04. 자주 쓰는 함수 대응표](04-자주쓰는함수.md) |
 
 ## 01. 한 줄 답: PHP가 알아서 해 주던 걸 Go는 안 해 줘요
 
@@ -277,5 +277,3 @@ Go map은 일부러 순회 순서를 섞어요. 테스트에서 맞은 건 우�
 - [Golang 기초 (10) : 포인터에 대하여](https://velog.io/@vamos_eon/go-pointer) — velog. 제로 값과 nil
 - [\[GO\] #3-2. 패키지 탐방 (errors, sort)](https://velog.io/@whdnjsdyd111/GO-3-2.-%ED%8C%A8%ED%82%A4%EC%A7%80-%ED%83%90%EB%B0%A9-errors) — velog. `%w` 로 감싸기, `errors.Is` / `errors.As`
 - [golang 에러처리에 대한 고민과 opaque 에러로 똑똑하게 처리하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=166104&boardType=techBlog) — SK DEVOCEAN
-
-메일솔루션 1파트 박진형 · Go 학습 · PHP 7.4와 Go 문법 차이

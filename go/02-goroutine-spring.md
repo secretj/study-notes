@@ -15,7 +15,7 @@ Go에서는 `go f()` 한 줄이면 동시에 뭔가를 돌릴 수 있어요. 이
 | 궁금했던 것 | Go의 스레드는 어떻게 동작해? 스프링이랑 뭐가 달라? |
 | 한 줄 답 | Go는 고루틴 수천 개를 OS 스레드 몇 개가 돌아가면서 처리해요. 스프링(톰캣)은 요청 하나에 스레드 하나를 붙여요. |
 | 정리한 날 | 2026-11-03 |
-| 목록 | [Go 학습 내용](https://wiki.mailplug.co.kr/confluence/pages/viewpage.action?pageId=224339879) · 이전 글 [01. Go 서버는 데몬을 띄워야 돌아갈까?](https://wiki.mailplug.co.kr/confluence/pages/viewpage.action?pageId=224339880) |
+| 목록 | Go 학습 내용 · 이전 글 [01. Go 서버는 데몬을 띄워야 돌아갈까?](01-실행방식.md) |
 
 ## 01. 한 줄 답
 
@@ -174,5 +174,3 @@ func (s *Service) Archive(ctx context.Context, mailID int64) error {
 - [Virtual Thread 성능 테스트 with JDK21 & Spring boot 3.2](https://tech.payhere.in/post/20240424-virtual-thread/) — 페이히어 기술블로그. 톰캣 스레드 하나당 0.5~2MB
 - [Java, max user processes, open files](https://techblog.woowahan.com/2569/) — 우아한형제들 기술블로그. 톰캣 maxThreads 기본값 200
 - [\[Go\] context.WithValue() 안전하게 사용하기](https://velog.io/@kimmachinegun/Go-context.WithValue-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0) — velog
-
-메일솔루션 1파트 박진형 · Go 학습 · 고루틴과 스프링 스레드 정리

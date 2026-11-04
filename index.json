@@ -430,6 +430,30 @@
       ]
     },
     {
+      "path": "go/05-gin-api.md",
+      "title": "05. CodeIgniter 컨트롤러 대신 gin으로 API를 만들면 어떻게 될까?",
+      "date": "2026-11-04",
+      "tags": [
+        "Go"
+      ]
+    },
+    {
+      "path": "go/06-sqlx-커넥션풀.md",
+      "title": "06. PHP는 요청마다 DB에 붙는데, Go는 커넥션을 어떻게 관리할까? (sqlx와 커넥션 풀)",
+      "date": "2026-11-04",
+      "tags": [
+        "Go"
+      ]
+    },
+    {
+      "path": "go/07-table-driven-test.md",
+      "title": "07. Go에서는 테스트를 왜 표로 짤까? (table-driven test)",
+      "date": "2026-11-04",
+      "tags": [
+        "Go"
+      ]
+    },
+    {
       "path": "info-processing-engineer/01-아스키 코드, 유니 코드.md",
       "title": "아스키 코드, 유니 코드",
       "date": "2022-01-26",
