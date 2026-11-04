@@ -6,6 +6,7 @@
 - index.json 은 사이트(study-notes-site)가 목록·태그·연도 분류에 쓴다.
   사이트도 저장할 때 같은 형식으로 고쳐 쓰므로, 키 순서와 들여쓰기를 바꾸지 않는다.
 - 주제 이름(topics)은 index.json 에 있는 값을 먼저 쓰고, 없으면 DEFAULT_TOPICS, 그래도 없으면 폴더 이름을 쓴다.
+- topics 의 order 는 사이트의 「주제 순서」가 매긴다. 작은 것부터 보여 주고, 같으면 이름순이다. order 가 없으면 0 으로 본다.
 """
 import json
 import re
@@ -115,7 +116,7 @@ def readme(pages, topics):
            "", f"글 {len(pages)}개 · 주제 {len(topics)}개", ""]
     for g in groups:
         out += [f"## {g}", ""]
-        for folder, t in sorted(topics.items(), key=lambda kv: kv[1]["name"]):
+        for folder, t in sorted(topics.items(), key=lambda kv: (kv[1].get("order", 0), kv[1]["name"])):
             if t["group"] != g:
                 continue
             items = by_topic[folder]
